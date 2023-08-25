@@ -1,7 +1,8 @@
 # Assignment-3
 GitHub Actions
 
-Step1- Creating a GitHub Repository
+Step1- (Creating a GitHub Repository)
+
 git clone https://github.com/TalhaAzeem2k/Assignment-3.git
 Cloning into 'Assignment-3'...
 warning: You appear to have cloned an empty repository.
@@ -9,17 +10,20 @@ warning: You appear to have cloned an empty repository.
 C:\Users\hamza\Desktop\Coding>cd Assignment-3
 
 
-Step2- Creating a Simple Web Application
+Step2- (Creating a Simple Web Application)
+
 C:\Users\hamza\Desktop\Coding\Assignment-3>python -m venv venv
 
 
 
-Step3-Setting Up GitHub Actions Workflow
+Step3- (Setting Up GitHub Actions Workflow)
+
 C:\Users\hamza\Desktop\Coding\Assignment-3>venv\Scripts\activate
 
 
 
-Step4- Installing Libraries
+Step4- (Installing Libraries)
+
 (venv) C:\Users\hamza\Desktop\Coding\Assignment-3>pip install Flask
 Collecting Flask
   Downloading flask-2.3.3-py3-none-any.whl (96 kB)
@@ -48,7 +52,8 @@ Successfully installed Flask-2.3.3 Jinja2-3.1.2 MarkupSafe-2.1.3 Werkzeug-2.3.7 
 [notice] To update, run: python.exe -m pip install --upgrade pip
 
 
-Step5- Giving Input to install python requirements
+Step5- (Giving Input to install python requirements)
+
 (venv) C:\Users\hamza\Desktop\Coding\Assignment-3>python.exe -m pip install --upgrade pip
 Requirement already satisfied: pip in c:\users\hamza\desktop\coding\assignment-3\venv\lib\site-packages (23.1.2)
 Collecting pip
